@@ -1,2 +1,8 @@
 # pacmancoder-kicad-lib
-My personal KiCad components library
+Pacmancoder's KiCad components library
+
+### Contents
+
+- **Microcontrollers**
+    - *Padauk*
+        - PMS150C-SO8
